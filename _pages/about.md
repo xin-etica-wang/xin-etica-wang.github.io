@@ -17,10 +17,12 @@ I am broadly interested in **Information retrieval** and **Natural Language Proc
 Publications
 ======
 **Papers**
+
 Yinna Cai, Xin Chen, Zhiwu Qin, Xin Wang, Xianyu Bao, Jinxue Peng, Yongqi Lin, Junlin Li. “Algorithm for Matching Original Experimental Records Based on Improved CDC.” Journal of Shenzhen University Science and Engineering, vol. 39, no. 5, 2022, pp. 509-514.
 Jie Li, Zhigang Wu, Lixun Chen, Xinyu Bao, Xin Wang. “Discussion on Customs Informatization and Its Strategy.” China Science and Technology Information, vol. 662, no. 21, 2022, pp. 107-109.
 
 **Books**
+
 Xinyu Bao, Yinna Cai, Wenli Zheng, Lixun Chen, and Xin Wang (eds). Key Technologies and Applications of Intelligent Food Risk Traceanility. The University of Science and Technology of China Press, 2022.
 Wei Xin, Yi Cai, Xianyu Bao, Zili Long, Xin Chen, Hui Duan, and Xin Wang (eds). Container Port Performance Index 2021. China Customs Press, 2022.
 
